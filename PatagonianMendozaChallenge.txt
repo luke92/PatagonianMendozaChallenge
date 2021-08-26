@@ -1,0 +1,13 @@
+Para desactivar una potencial amenaza mundial, necesitamos de tu ayuda!Un espﾃｭa, estudiante novato de criptografﾃｭa, preparﾃｳ un ataque automatizado que se ejecutarﾃ｡ en todo el mundo a menos que logremos evitarlo!Solo nos dejo estas pistas:  POST https://us-central1-patagoniankpi-1540493789432.cloudfunctions.net/MendozaPatagonianChallenge?email=tu@email.com
+
+{
+    "message": "La siguiente página web puede utilizarse para controlar el dispositivo que dispara la bomba. Utiliza la herramienta provista para ingresar el código de desactivación!",
+    "activationKey": "bHVjYXNqdjkyQGdtYWlsLmNvbQ==",
+    "url": "https://codesandbox.io/s/sleepy-sun-im172"
+}
+
+Gracias lucasjv92@gmail.com! con el código provisto, pudimos reiniciar los servidores Windows, y salvar al planeta!.
+
+Ya estás participando por grandes premios! Seguinos en IG (@Patagoniantech) y conectate al live del 1 de septiembre a las 18hs para saber si ganaste.
+
+Si por alguna razón, lucasjv92@gmail.com no es tu mail, algo malió sal. Comunicate con nosotros a eventos@patagonian.it
